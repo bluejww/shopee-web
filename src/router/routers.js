@@ -1,4 +1,4 @@
-const pricepg = ()=>import('../view/main/main.vue');
+const pricepg = ()=>import('../view/price/price.vue');
 
 export default[
     {
